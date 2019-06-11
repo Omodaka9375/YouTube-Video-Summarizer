@@ -4,7 +4,7 @@ Command line tool to download, convert, transcribe and summarize youtube video b
 ## Usage (Python 2.7):
 1. Clone the repo and install the requirements
 2. python summarize.py youtube-video-url
-3. After all is done, you can find the summary in result.txt
+3. After all is done, you can find the summary in console
 
 ## Dependencies
 - youtube_dl
