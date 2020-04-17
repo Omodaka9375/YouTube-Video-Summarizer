@@ -1,2 +1,4 @@
 SpeechRecognition==3.6.3
 sumy==0.8.1
+ffmpeg==1.4
+youtube-dl==2020.3.8
